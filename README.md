@@ -47,13 +47,18 @@ Here are some applications of a Virtual Memory Manager:
 ## Sample output
 
 Virtual Address : 17071 and Physical Address : 175 with Value : 171
+
 Virtual Address : 8940 and Physical Address : 46572 with Value : 0
+
 Virtual Address : 9929 and Physical Address : 44745 with Value : 0
+
 Virtual Address : 45563 and Physical Address : 46075 with Value : 126
+
 Virtual Address : 12107 and Physical Address : 2635 with Value : 210
 
 
 Page-fault rate is : 24.40 %
+
 TLB-hit rate is : 5.40 %
 
 # Screenshoot
