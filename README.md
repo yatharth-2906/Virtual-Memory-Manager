@@ -11,10 +11,6 @@ Here are some applications of a Virtual Memory Manager:
 * Facilitates memory sharing between processes, as multiple processes can map to the same physical memory page.
 * Improves overall system performance by reducing the number of page faults and minimizing disk I/O.
 
-![os_1](https://github.com/yatharth-2906/Virtual-Memory-Manager/assets/97800277/a81eefba-42dc-40d9-a244-a371936eef77)
-
-![os_2](https://github.com/yatharth-2906/Virtual-Memory-Manager/assets/97800277/e52a0310-1fd9-4437-a5a0-5a53a35aa66b)
-
 
 ## Steps involved:
 
@@ -25,6 +21,10 @@ Here are some applications of a Virtual Memory Manager:
 * Otherwise, page fault occurs. After handling page fault, restart the process, frame number can be retrieved from TLB.
 * Concatenate: ‘Frame Number’ and ‘Offset’ to get the corresponding ‘Physical address’.
 * With frame number and offset, data can be extracted from physical memory.
+
+![os_1](https://github.com/yatharth-2906/Virtual-Memory-Manager/assets/97800277/a81eefba-42dc-40d9-a244-a371936eef77)
+
+![os_2](https://github.com/yatharth-2906/Virtual-Memory-Manager/assets/97800277/e52a0310-1fd9-4437-a5a0-5a53a35aa66b)
 
 ## Configuration:
 
